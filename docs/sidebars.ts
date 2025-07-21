@@ -26,7 +26,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'SDK Layer',
-      items: ['sdk-layer/overview', 'sdk-layer/getting-started', 'sdk-layer/resources', 'sdk-layer/error-handling'],
+      items: ['sdk-layer/overview', 'sdk-layer/getting-started', 'sdk-layer/resources', 'sdk-layer/error-handling', 'sdk-layer/types'],
     },
     {
       type: 'category',
